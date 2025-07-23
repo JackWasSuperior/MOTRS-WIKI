@@ -1,6 +1,6 @@
 <div class="reveal">
   <div class="slides">
-    <section data-markdown="index.md" data-background-image="assets/wecangetlostemoji.png"></section>
+    <section data-markdown="index.md" data-background-image="assets/wecangetlostemoji.png"></section> 
   </div>
 </div>
 <h1>MIDDLE OF THE ROAD STUDIO</h1>
